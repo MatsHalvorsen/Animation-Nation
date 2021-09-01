@@ -5469,7 +5469,15 @@ let cards = [
     imageLink: './Art/black-hole-vortex/black-hole-vortex.gif',
     author: 'Bo-wei Chen',
     githubLink: 'https://github.com/Rayologist'
-  }
+  },
+  {
+    artName: 'Animated Pulse',
+    pageLink: './Art/animated pulse/index.html',
+    imageLink: './Art/MatsHalvorsen/animated pulse.gif',
+    author: 'MatsHalvorsen',
+    githubLink: 'https://github.com/MatsHalvorsen'
+  },
+  
 ];
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
